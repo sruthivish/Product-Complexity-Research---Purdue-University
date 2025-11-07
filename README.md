@@ -42,7 +42,7 @@ This repository contains code and data assets for an undergraduate research proj
 
 ---
 ## 📣 Data Background  
-> **Banner:** The information in this section is **sourced from the Harvard Growth Lab (Atlas of Economic Complexity)**.
+> The information in this section is **sourced from the Harvard Growth Lab (Atlas of Economic Complexity)**.
 
 ### Primary inputs used by the Atlas
 - **Goods Trade (raw data):** United Nations Statistical Division (**UN Comtrade**)
