@@ -39,6 +39,7 @@ This repository contains code and data assets for an undergraduate research proj
     - **Panel balance:** does each HS code appear in all years?
   - **Extremes:** top/bottom PCI products by year (e.g., 1995 snapshot)
   - **Coverage audits:** Do all dictionary HS codes appear in a given year? Which appear **later** or **never**?
+  - **Procedure:** Download and run the file 'run.do' provided in the main branch to view analyses conducted so far and associated findings.
 
 ---
 ## 📣 Data Background  
