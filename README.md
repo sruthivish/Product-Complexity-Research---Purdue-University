@@ -1,5 +1,7 @@
 # Product-Complexity-Research---Purdue-University
 
+Owned and managed by Sruthi Visvanathan for Dr Victoria Prowse
+
 This repository contains code and data assets for an undergraduate research project exploring how **U.S. trade composition** relates to **employment** through the lens of the **Product Complexity Index (PCI)** from the *Atlas of Economic Complexity*. We map **HS92 4-digit** product codes to human-readable labels and study coverage, dynamics, and outliers over time.
 
 ---
